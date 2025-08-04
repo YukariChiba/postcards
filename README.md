@@ -12,6 +12,10 @@
 
 **05 Memories**: Photos about my early life
 
+**06 Cities**: Photos about sights in cities
+
+**07 Journey**: Photos taken in journey
+
 ## License
 
 CC-BY-NC-SA 4.0
